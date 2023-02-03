@@ -14,10 +14,6 @@ Restart your FiveM server.
 Usage
 The owner of the script can enable and disable the script by using the /as enable and /as disable commands in the in-game chat.
 
-The owner of the script is defined as the player with the server ID of 1. You can change this in the script by replacing the 1 in the following line with the server ID of the owner:
-
-local owner = GetPlayerIdentifier(GetPlayerFromServerId(1))
-
 License
 
 This script is licensed under the MIT License.
